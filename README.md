@@ -13,21 +13,21 @@ Este es el repositorio donde estaran los links, documentos e ideas importantes d
 ## PRIMER ENTREGABLE (FPDB): 
 Un FPBD (Formato de presentación bases de datos) es un documento donde vamos a exponer nuestro tema y como en un proyector real definiremos presupuestos, tiempos y demás. Este entregable (ver archivo anexo 1) la intención es tener gran parte ya echa para 27 (para mostrarselo al profe y para no quedar libres el 31 de octubre todos :D).
 El FPBD consta de los siguientes items que apenas **elijamos un tema** vamos a trabajar
-- **TITULO**
+- **TITULO:**
 Algo que de a entender nuestro tema de proyecto
-- **ANTECENTES**
+- **ANTECENTES:**
 De donde nace el tema. Máximo 10 Líneas
-- **DEFINICIÓN DEL PROBLEMA**
+- **DEFINICIÓN DEL PROBLEMA:**
 En que consiste el problema. Máximo 1 Página
-- **JUSTIFICACIÓN**
+- **JUSTIFICACIÓN:**
 Dado el problema, se hace necesario el desarrollo del proyecto. Máximo 20 Líneas
-- **OBJETIVOS**
+- **OBJETIVOS:**
 Generales y Específicos  al  proyecto. Máximo 10 Líneas
-- **ALCANCES Y LIMITACIONES**
+- **ALCANCES Y LIMITACIONES:**
 Que van a realizar y que limitaciones tienen. Máximo 10 Líneas
-- **COSTOS**
+- **COSTOS:**
 Considerar todos los aspectos. Tabla en Excel con los ítems necesarios
-- **CRONOGRAMA**
+- **CRONOGRAMA:**
 Considerar todos los aspectos. Tabla en Excel con las actividades necesarias.
 
 --- 
