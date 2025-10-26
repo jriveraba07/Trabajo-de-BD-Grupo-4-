@@ -32,21 +32,16 @@ Considerar todos los aspectos. Tabla en Excel con las actividades necesarias.
 
 --- 
 
-## Ideas de proyecto
-_Nico tiene la idea de_
-- **una BD tipo steam** (entidades: juego, jugador, distribuidor, favoritos, biblioteca, etc) o **un reproductor de música** (entidades: usuario, canción, artista, género, favoritos, etc)
-
-_Por otro lado leo pensó en_ 
-- hacer una **BD acerca de un manejador de archivos** , donde haya usuario los documentos tengan clases o tipos, colaboradores y eso pensando en herramientas como overleaf o incluso R
-
-_Sebastian propone_
-- tal vez genérico pero hacer la **BD del sistema de votaciones de  un cargo público** que ya tenga de por si una integridad por valor 1:1 impidiendo votos repetidos y solo aquellas personas que puedan realmente votar (entiéndase como realmente como personas que estén en registraduría nacional en su respectivo puesto o si quiera personas vivas) solo lo van a hacer una vez, creo que puede ser un tema real y pues ya me involucra la combinación de bases de datos como una cédula, persona, ciudad, departamento, candidato, partido político y etc
+## Tema del proyecto (elegido democraticamente)
+Bases de datos de seguros generales para una compañía aseguradora que cubra: contratación de pólizas, gestión de asegurados y objetos asegurados, coberturas y endosos, siniestros y pagos, agentes y sucursales, proveedores, y pueden salir en general tantas entidades como se necesiten
 
 ---
+## LINKS IMPORTANtES
+- docs de google del primer entregable: https://docs.google.com/document/d/1YEk1mJPDLmbKBSegojvXQ7wDuGOPETPtTo0INMzNV48/edit?tab=t.0
 
+---
 ## Cosas a discutir
 De momento se tienen que definir:
-- **Tema del proyecto**
 - **Herramientas a usar para la documentación**
 - **Organización para tener algo el 27 de octubre**
 - **como nos vamos a organizar en general**
