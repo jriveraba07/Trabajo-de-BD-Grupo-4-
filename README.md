@@ -1,4 +1,4 @@
-# Trabajo-de-BD-Grupo-4-
+# Trabajo-de-BD-Grupo-4
 Este es el repositorio donde estaran los links, documentos e ideas importantes de nuestro proyecto de BD, por el momento no se cuenta con un nombre ya que aún no se sabe de que sera la BD
 ---
 ## REQUIREMENTS
@@ -37,12 +37,13 @@ Bases de datos de seguros generales para una compañía aseguradora que cubra: c
 
 ---
 ## LINKS IMPORTANtES
-- docs de google del primer entregable: https://docs.google.com/document/d/1YEk1mJPDLmbKBSegojvXQ7wDuGOPETPtTo0INMzNV48/edit?tab=t.0
+- drive donce se centralizaran casi todos los documentos: https://drive.google.com/drive/folders/1cduCjUAmAwK2RO6Zv54K-wqhHjjW6DyY?usp=sharing
+- link de overleaf (donde se hara la documentación): https://es.overleaf.com/project/6902b26e44acbdbdfcd45fc3
+- Canva (un canva donde se podria ir modelando la presentación de final de proyecto): https://www.canva.com/design/DAG3VPjhIS0/xPrt88cVdFrVDaZhrKNsjw/edit?utm_content=DAG3VPjhIS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Drive de materia bases de datos - 2025 (por si lo necestamos): https://drive.google.com/drive/u/0/folders/1HZRA6zfOGSlzKe7CVjm_j90tIr3spMvk
 
 ---
 ## Cosas a discutir
 De momento se tienen que definir:
 - **Herramientas a usar para la documentación**
-- **Organización para tener algo el 27 de octubre**
-- **como nos vamos a organizar en general**
 advice: recuerden que el profe selecciona a **una persona aleatoria** del grupo y cuenta por todos, entonces se va a intentar que todos participen de todo
